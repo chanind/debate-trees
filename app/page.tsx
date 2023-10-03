@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import args from './test.json'
 import Arg from '@/components/Arg'
 

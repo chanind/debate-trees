@@ -1,0 +1,19 @@
+{
+    "safe": false,
+    "argument": "It's all going to shit.",
+    "source": "www.google.com",
+    "children": [
+        {
+            "safe": true,
+            "argument": "No.",
+            "source": "www.wikipedia.org",
+            "children": []
+        },
+        {
+            "safe": true,
+            "argument": "Not really",
+            "source": "www.wikipedia.org",
+            "children": []
+        }
+    ]
+}
